@@ -1,0 +1,7 @@
+Lessons learned
+
+how to set a time played concept in this version of the tic tac toe game
+
+struggles 
+
+recoding and making new concepts work

@@ -1,0 +1,12 @@
+Lessons Learned
+-----------------
+
+#1 Learned how to properly reset board without error
+#2 Learned to add a time to the game to show how long user played.
+#3 Learned to add average time per game.
+#4 Learned to make it where user can exit.
+5
+
+
+
+

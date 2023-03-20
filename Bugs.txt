@@ -1,1 +1,6 @@
-There were many bugs as the displays not working correctly and me forgetting to add the ";" every now and then but mostly it was just simple things
+Bugs
+-------
+
+
+one bug i had was that when you selected a number and then someone else selected the same number the system would go into an infinite loop and not stop,
+second bug was not being able to exit the game at the end making it impossible to close without closing the command prompt itself.

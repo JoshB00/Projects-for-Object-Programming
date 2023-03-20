@@ -1,0 +1,8 @@
+Struggles
+-----------
+
+First struggle i had was making the Timer for each game. I spent many hours reading and finding tips on how to make a timer and then relasied i just need to calculate
+it per date and add a value for such in the code.
+
+Second struggle was resolving the exit bug on my code making it where i could not exit at the end of the game, Then i found the "Enviroment.Exit" feature which helped
+fix my problem.
